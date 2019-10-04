@@ -40,8 +40,8 @@ var config = {
   blockchainExplorerOpts: {
     livenet: {
       provider: 'insight',
-      url: 'https://insight.dashevo.org',
-      apiPrefix:'/insight-api-dash'
+      url: 'http://164.68.114.64:3001',
+      apiPrefix:'/insight-api-gobyte'
     },
     testnet: {
       provider: 'insight',
